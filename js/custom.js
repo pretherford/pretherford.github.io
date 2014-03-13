@@ -20,7 +20,7 @@ jQuery(document).ready(function() {
 			}
 		};
 	}	
-	
+/*	
 	$('#ghw').githubWidget({
 			'username': 'pretherford',
 			'displayActions': false,
@@ -30,4 +30,5 @@ jQuery(document).ready(function() {
 			'displayAccountInformations': false,
 			'displayLanguage': false
 		});
+*/
 });

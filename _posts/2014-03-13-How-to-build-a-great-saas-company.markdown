@@ -7,7 +7,7 @@ year: 2014
 month: 3
 day: 13 
 published: true
-summary: How to build the best software service company.
+summary: Building a great software service company.
 image: post_one.jpg
 ---
 

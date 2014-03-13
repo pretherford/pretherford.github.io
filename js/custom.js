@@ -22,7 +22,7 @@ jQuery(document).ready(function() {
 	}	
 	
 	$('#ghw').githubWidget({
-			'username': 'Erjjones',
+			'username': 'pretherford',
 			'displayActions': false,
 			'firstCount': 10,
 			'displayHeader': false,

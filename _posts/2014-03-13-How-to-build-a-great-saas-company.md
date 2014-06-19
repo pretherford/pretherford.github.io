@@ -18,8 +18,18 @@ image: post_one.jpg
 <small>Howard Stevenson,  Professor Emeritus  Harvard University</small>
 </blockquote>
 
+<h3>Back Up</h3>
+<p>For the last four years my partner Chris and I, and the team at ScanPower have been building great tools and resources for online sellers.  Our core proposition is a model for anyone to build their business with knowledge, technology, and community.</p>
+<p>It's simple really. We are part of a movement of thousands of people taking control of their future in an uncertain economic climate.</p>
+<p>These essays are my attempt to capture the movement and our part in it. We are a technology company, but we are so much more than that. We are educators, coaches, and leaders.</p>
+<p> Nowadays every company must leverage technology to compete. We certainly do that with mobile and web apps that bring important data to our customers exactly when and where they need it. It's not enough to streamline a single process. You have to remove barriers to getting work done by integrating with multiple sources of data and services and make it seamless from start to finish, whether the customer begins the process on a tablet, their laptop, or a mobile device. </p>
+
+<h3>Go Forward</h3>
+Our <a href="http://www.scanpower.com/ourstory">story</a> can't easily be replicated, but the lessons we have learned building ScanPower are transferrable to anyone leveraging web and mobile technology. 
+
+
 <h3>
-<p>Before you set off to build the best software as a service (SAAS) company on the planet, you need to come to grips with <b>5 Inescapable Truths</b>.
+<p>Before you set off to build the best soft serv (SAAS) company on the planet, come to grips with these <b>5 Inescapable Truths</b>.
 </h3>
 <p> Without a doubt <b>a good idea</b>, finding <b>product/market fit</b>, and building a <b>brilliant team</b> are crucial to your success. Much has been written about the key ingredients of startups and many case studies exist that cover these aspects of launching a business.</p>
 <p>I would like to focus more on the nuts and bolts of building and managing the systems of your new baby.</p>

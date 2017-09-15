@@ -11,8 +11,6 @@ summary: Building a great software service company.
 image: post_one.jpg
 ---
 
-<div class="row">	
-	<div class="span9 columns">
 <blockquote>
 <p>Entrepreneurship is “the pursuit of opportunity beyond the resources you currently control”</p>
 <small>Howard Stevenson,  Professor Emeritus  Harvard University</small>
@@ -68,8 +66,6 @@ If you fail to fully grasp the importance of this requirement, and you have a bu
 </li>
 </ol>
 
-</div>
-</div>
 <div class="row">
         <div class="span3 columns">&nbsp;</div>
         <div class="span6 column">

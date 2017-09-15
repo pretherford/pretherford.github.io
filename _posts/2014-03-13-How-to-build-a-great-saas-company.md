@@ -12,7 +12,7 @@ image: post_one.jpg
 ---
 
 <div class="row">
-  <div class="span9 columns">
+<div class="span9 columns">
 
 <blockquote>
 <p>Entrepreneurship is “the pursuit of opportunity beyond the resources you currently control”</p>
@@ -30,7 +30,7 @@ Our <a href="http://www.scanpower.com">story</a> can't easily be replicated, but
 
 <p>Before you set off to build the best soft serv (SAAS) company on the planet, come to grips with these <b>5 Inescapable Truths</b>.</p>
 
-<p> Without a doubt <b>a good idea</b>, finding <b>product/market fit</b>, and building a <b>brilliant team</b> are crucial to your success. Much has been written about the key ingredients of startups and many case studies exist that cover these aspects of launching a business.</p>
+<p>Without a doubt <b>a good idea</b>, finding <b>product/market fit</b>, and building a <b>brilliant team</b> are crucial to your success. Much has been written about the key ingredients of startups and many case studies exist that cover these aspects of launching a business.</p>
 <p>I would like to focus more on the nuts and bolts of building and managing the systems of your new baby.</p>
 
 <p>Understanding the 5 truths below may help you execute on your idea and stay sane long enough to see it prosper:</p>
@@ -61,45 +61,43 @@ If you fail to fully grasp the importance of this requirement, and you have a bu
 </div>
 </li>
 <li>
-    <div class="well">
-     <p><b>Communicate</b>. Your organization (top to bottom) has to be on the same page. Most companies today are distributed. We aren’t sitting in the same room nor are we necessarily in the same time zone.</p>
-     <p>At <a href="http://www.scanpower.com">ScanPower</a> we wrestle with this every day. No process or software on its own will solve the problem of communication.<p/>
-     <p>Practice sharing important stuff every day - not just with your team but with customers. Eliminate back channels and be more transparent than you are comfortable with.</p>
-    </div>
+<div class="well">
+<p><b>Communicate</b>. Your organization (top to bottom) has to be on the same page. Most companies today are distributed. We aren’t sitting in the same room nor are we necessarily in the same time zone.</p>
+<p>At <a href="http://www.scanpower.com">ScanPower</a> we wrestle with this every day. No process or software on its own will solve the problem of communication.<p/>
+<p>Practice sharing important stuff every day - not just with your team but with customers. Eliminate back channels and be more transparent than you are comfortable with.</p>
+</div>
 </li>
 </ol>
-
-  </div> <!-- span9 -->
+</div> <!-- span9 -->
 </div> <!-- row -->
-
 <div class="row">
-        <div class="span3 columns">&nbsp;</div>
-        <div class="span6 column">
-                        <p class="pull-right">{% if page.previous.url %} <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}"><i class="icon-chevron-left"></i></a>   {% endif %}   {% if page.next.url %}    <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}"><i class="icon-chevron-right"></i></a>       {% endif %} </p>
-        </div>
+<div class="span3 columns">&nbsp;</div>
+<div class="span6 column">
+<p class="pull-right">{% if page.previous.url %} <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">
+<i class="icon-chevron-left"></i></a>   {% endif %}   {% if page.next.url %}
+<a href="{{page.next.url}}" title="Next Post:{{page.next.title}}">
+<i class="icon-chevron-right"></i></a> {% endif %} </p>
+</div>
 </div>
 
 <div class="row">
-        <div class="span9 columns">
-                <h2>Comments Section</h2>
-            <p>Feel free to comment on the post but keep it clean and on topic.</p>
-                <div id="disqus_thread"></div>
-                <script type="text/javascript">
-                        
-                        var disqus_shortname = 'softserve'; // required: replace example with your forum shortname
-                        var disqus_identifier = '{{ page.url }}';
-                        var disqus_url = 'http://pretherford.github.com{{ page.url }}';
-
-                       
-                        (function() {
-                                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-                                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-                        })();
-                </script>
-                <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-        </div>
+<div class="span9 columns">
+<h2>Comments Section</h2>
+<p>Feel free to comment on the post but keep it clean and on topic.</p>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+var disqus_shortname = 'softserve'; // required: replace example with your forum shortname
+var disqus_identifier = '{{ page.url }}';
+var disqus_url = 'http://pretherford.github.com{{ page.url }}';
+(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
 </div>
 
 <!-- Twitter -->

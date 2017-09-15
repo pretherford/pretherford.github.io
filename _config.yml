@@ -1,4 +1,4 @@
 auto: true
 markdown: kramdown
-rouge: true
+highlighter: rouge
 permalink: /blog/:title

@@ -63,7 +63,7 @@ If you fail to fully grasp the importance of this requirement, and you have a bu
 <li>
 <div class="well">
 <p><b>Communicate</b>. Your organization (top to bottom) has to be on the same page. Most companies today are distributed. We aren’t sitting in the same room nor are we necessarily in the same time zone.</p>
-<p>At <a href="http://www.scanpower.com">ScanPower</a> we wrestle with this every day. No process or software on its own will solve the problem of communication.<p/>
+<p>At <a href="http://www.scanpower.com">ScanPower</a> we wrestle with this every day. No process or software on its own will solve the problem of communication.</p>
 <p>Practice sharing important stuff every day - not just with your team but with customers. Eliminate back channels and be more transparent than you are comfortable with.</p>
 </div>
 </li>

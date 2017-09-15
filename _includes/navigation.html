@@ -1,37 +1,49 @@
 <nav class="navbar navbar-default">
-  <div class="navbar-inner">
+ <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://pretherford.github.io">Soft Serve</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
+        <li><a href="/">Home</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Social <span class="caret"></span></a>
+          <ul class="dropdown-menu">									
+		<li><a href="http://www.twitter.com/paulretherford" rel="tooltip" title="Go to twitter.com/erjjones" target="_blank">Twitter</a></li>
+		<li><a href="http://github.com/pretherford" rel="tooltip" title="Go to github.com/pretherford" target="_blank">GitHub</a></li>
+		<li><a href="http://www.facebook.com/pretherford" rel="tooltip" title="Go to facebook.com/pretherford" target="_blank">Facebook</a></li>
+		<li><a href="http://www.linkedin.com/in/paulretherford" rel="tooltip" title="Go to LinkedIn profile" target="_blank">LinkedIn</a></li>										
+		<li role="separator" class="divider"></li>
+		<li><a href="http://feeds.feedburner.com/github/pretherford" rel="tooltip" title="Go to feedburner" target="_blank">RSS</a></li>
+	 </ul>
+		  
+		  <div class="navbar-inner">
 	<div class="container">
 	  <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
 		<span class="icon-bar"></span>
 		<span class="icon-bar"></span>
 		<span class="icon-bar"></span>
 	  </a>
-	  <a class="brand" href="http://pretherford.github.io">Soft Serve</a>
-	  <div class="nav-collapse">
-		<ul class="nav">		  
-		  <li class="">
-			<a href="http://pretherford.github.io"><i class="icon-home"></i> Home</a>
-		  </li>
-		  <li class="dropdown">
-			<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-comment"></i> Social <b class="caret"></b></a>
-				<ul class="dropdown-menu">										
-					<li class=""><a href="http://www.twitter.com/paulretherford" rel="tooltip" title="Go to twitter.com/erjjones" target="_blank">Twitter</a></li>
-					<li class=""><a href="http://github.com/pretherford" rel="tooltip" title="Go to github.com/pretherford" target="_blank">GitHub</a></li>
-					<li class=""><a href="http://www.facebook.com/pretherford" rel="tooltip" title="Go to facebook.com/pretherford" target="_blank">Facebook</a></li>
-					<li class=""><a href="http://www.linkedin.com/in/paulretherford" rel="tooltip" title="Go to LinkedIn profile" target="_blank">LinkedIn</a></li>										
-					<li class="divider"></li>
-					<li class=""><a href="http://feeds.feedburner.com/github/pretherford" rel="tooltip" title="Go to feedburner" target="_blank">RSS</a></li>
-				</ul>
-			 </li>
-		<li class="dropdown">
-			<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-list"></i> Projects <b class="caret"></b></a>
-				<ul class="dropdown-menu">					
-					<li class=""><a href="http://www.scanpower.com" rel="tooltip" title="ScanPower" target="_blank">ScanPower</a></li>					
-					<li class=""><a href="http://incirrus.com" rel="tooltip" title="inCirrus">Powered by inCirrus</a></li>
-				</ul>
-			 </li>			
-		</ul>		
-	  </div>
-	</div>
+	<ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="http://www.scanpower.com" rel="tooltip" title="ScanPower" target="_blank">ScanPower</a></li>					
+            <li><a href="http://incirrus.com" rel="tooltip" title="inCirrus">Powered by inCirrus</a></li>
+            <li role="separator" class="divider"></li>
+          </ul>
+        </li>
+      </ul>
   </div>
 </nav>

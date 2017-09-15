@@ -26,7 +26,7 @@ image: post_one.jpg
 <p> Nowadays every company must leverage technology to compete. We certainly do that with mobile and web apps that bring important data to our customers exactly when and where they need it. It's not enough to streamline a single process. You have to remove barriers to getting work done by integrating with multiple sources of data and services and make it seamless from start to finish, whether the customer begins the process on a tablet, their laptop, or a mobile device. </p>
 
 <h3>Go Forward</h3>
-Our <a href="http://www.scanpower.com">story</a> can't easily be replicated, but the lessons we have learned building ScanPower are transferrable to anyone leveraging web and mobile technology. 
+<p>Our <a href="http://www.scanpower.com">story</a> can't easily be replicated, but the lessons we have learned building ScanPower are transferrable to anyone leveraging web and mobile technology.</p>
 
 <p>Before you set off to build the best soft serv (SAAS) company on the planet, come to grips with these <b>5 Inescapable Truths</b>.</p>
 

@@ -68,15 +68,6 @@ If you fail to fully grasp the importance of this requirement, and you have a bu
 </div>
 </li>
 </ol>
-</div> <!-- span9 -->
-</div> <!-- row -->
-<div class="row">
-<div class="span3 columns">&nbsp;</div>
-<div class="span6 column">
-<p class="pull-right">{% if page.previous.url %} <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">
-<i class="icon-chevron-left"></i></a>   {% endif %}   {% if page.next.url %}
-<a href="{{page.next.url}}" title="Next Post:{{page.next.title}}">
-<i class="icon-chevron-right"></i></a> {% endif %} </p>
 </div>
 </div>
 

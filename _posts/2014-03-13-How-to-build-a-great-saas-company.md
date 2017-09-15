@@ -68,8 +68,8 @@ If you fail to fully grasp the importance of this requirement, and you have a bu
 </li>
 </ol>
 
-</div> <!-- span>
-</div> <!-- row>
+</div>
+</div>
 <div class="row">
         <div class="span3 columns">&nbsp;</div>
         <div class="span6 column">

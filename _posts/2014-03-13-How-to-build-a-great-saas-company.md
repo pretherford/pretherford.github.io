@@ -27,7 +27,7 @@ image: post_one.jpg
 <h3>Go Forward</h3>
 Our <a href="http://www.scanpower.com">story</a> can't easily be replicated, but the lessons we have learned building ScanPower are transferrable to anyone leveraging web and mobile technology. 
 
-<p>Before you set off to build the best soft serv (SAAS) company on the planet, come to grips with these <b>5 Inescapable Truths</b>.
+<p>Before you set off to build the best soft serv (SAAS) company on the planet, come to grips with these <b>5 Inescapable Truths</b>.</p>
 
 <p> Without a doubt <b>a good idea</b>, finding <b>product/market fit</b>, and building a <b>brilliant team</b> are crucial to your success. Much has been written about the key ingredients of startups and many case studies exist that cover these aspects of launching a business.</p>
 <p>I would like to focus more on the nuts and bolts of building and managing the systems of your new baby.</p>
@@ -35,7 +35,7 @@ Our <a href="http://www.scanpower.com">story</a> can't easily be replicated, but
 <p>Understanding the 5 truths below may help you execute on your idea and stay sane long enough to see it prosper:</p>
 <ol>
 <li>
-<div class="well"
+<div class="well">
 <p><b>Speed Matters</b>. Everything is live. Everything is important. Everything is a production issue. It’s critical you solve issues, respond to customers, and innovate quickly. Your business depends on it. Your reputation, which is global and transparent, depends on it.</p>
 <p>Speed matters because others are working on the same problem with more resources than you. And they are younger, smarter, and better looking!</p>
 </div>

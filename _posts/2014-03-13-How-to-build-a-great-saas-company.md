@@ -66,7 +66,7 @@ If you fail to fully grasp the importance of this requirement, and you have a bu
 <p/>
 <p>Practice sharing important stuff every day - not just with your team but with customers. Eliminate back channels and be more transparent than you are comfortable with.</p>
 </div>
-
+</li>
 
 <div class="row">
         <div class="span3 columns">&nbsp;</div>

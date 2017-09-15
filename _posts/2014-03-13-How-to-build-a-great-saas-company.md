@@ -25,12 +25,10 @@ image: post_one.jpg
 <p> Nowadays every company must leverage technology to compete. We certainly do that with mobile and web apps that bring important data to our customers exactly when and where they need it. It's not enough to streamline a single process. You have to remove barriers to getting work done by integrating with multiple sources of data and services and make it seamless from start to finish, whether the customer begins the process on a tablet, their laptop, or a mobile device. </p>
 
 <h3>Go Forward</h3>
-Our <a href="http://www.scanpower.com/ourstory">story</a> can't easily be replicated, but the lessons we have learned building ScanPower are transferrable to anyone leveraging web and mobile technology. 
+Our <a href="http://www.scanpower.com">story</a> can't easily be replicated, but the lessons we have learned building ScanPower are transferrable to anyone leveraging web and mobile technology. 
 
-
-<h3>
 <p>Before you set off to build the best soft serv (SAAS) company on the planet, come to grips with these <b>5 Inescapable Truths</b>.
-</h3>
+
 <p> Without a doubt <b>a good idea</b>, finding <b>product/market fit</b>, and building a <b>brilliant team</b> are crucial to your success. Much has been written about the key ingredients of startups and many case studies exist that cover these aspects of launching a business.</p>
 <p>I would like to focus more on the nuts and bolts of building and managing the systems of your new baby.</p>
 
@@ -43,18 +41,18 @@ Our <a href="http://www.scanpower.com/ourstory">story</a> can't easily be replic
 </div>
 </li>
 <li>
-<div class="well"
+<div class="well">
 <p><b>Automate</b>. See 1. If you don’t automate, you won’t have time to innovate.</p>
 </div>
 </li>
 <li>
-<div class="well"
+<div class="well">
 <p><b>Monitor</b>. See 2. Automate when you can, but keep your finger on the pulse of the business.</p>
 <p>You may have a brilliant dashboard, but sometimes its more important to watch logs on an instance or see the problem first-hand while screen-sharing with a customer.</p>
 </div>
 </li>
 <li>
-<div class="well"
+<div class="well">
 <p><b>Build Systems. Everywhere</b>. Then Monitor and Automate.</p>
 <p>
 If you fail to fully grasp the importance of this requirement, and you have a business model allowing efficient customer acquisition, you will die a painful death at the hands of too many processes for you and your staff to manage.
@@ -62,7 +60,7 @@ If you fail to fully grasp the importance of this requirement, and you have a bu
 </div>
 </li>
 <li>
-<div class="well"
+<div class="well">
 <p><b>Communicate</b>. Your organization (top to bottom) has to be on the same page. Most companies today are distributed. We aren’t sitting in the same room nor are we necessarily in the same time zone.</p>
 <p>At <a href="http://www.scanpower.com">ScanPower</a> we wrestle with this every day. No process or software on its own will solve the problem of communication.
 <p/>

@@ -1,3 +1,15 @@
+---
+layout: post
+title: Your Biggest Software Challenge
+category: Building
+tags: saas scanpower service software
+year: 2017
+month: 9
+day: 19 
+published: true
+summary: An eCommerce business has many challenges and even more opportunities
+image: post_two.jpg
+---
 ## What is your biggest software challenge or opportunity?
 
 You're building and growing your eCommerce business. There are many challenges and even more opportunities. Sometimes software is a godsend and sometimes it's blood dripping thorn! At ScanPower, we aim to be the former; a nice efficient side car to help you make and save money.

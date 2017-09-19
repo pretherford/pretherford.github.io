@@ -73,8 +73,6 @@ If you fail to fully grasp the importance of this requirement, and you have a bu
 
 <div class="row">
 <div class="span9 columns">
-<h2>Comments Section</h2>
-<p>Feel free to comment on the post but keep it clean and on topic.</p>
 <div id="disqus_thread"></div>
 <script type="text/javascript">
 var disqus_shortname = 'softserve'; // required: replace example with your forum shortname

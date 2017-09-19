@@ -12,7 +12,7 @@ image: post_two.jpg
 ---
 ## What is your biggest software challenge or opportunity?
 
-You're building and growing your eCommerce business. There are many challenges and even more opportunities. Sometimes software is a godsend and sometimes it's blood dripping thorn! At ScanPower, we aim to be the former; a nice efficient side car to help you make and save money.
+**You're building and growing your eCommerce business. There are many challenges and even more opportunities. Sometimes software is a godsend and sometimes it's blood dripping thorn! At ScanPower, we aim to be the former; a nice efficient side car to help you make and save money.**
 
 Leave a comment and start a discussion and we'll brainstorm together!
 

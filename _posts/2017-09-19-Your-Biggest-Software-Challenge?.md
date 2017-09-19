@@ -10,9 +10,9 @@ published: true
 summary: An eCommerce business has many challenges and even more opportunities
 image: post_two.jpg
 ---
-## **You're building and growing your eCommerce business. There are many challenges and even more opportunities. Sometimes software is a godsend and sometimes it's blood dripping thorn! At ScanPower, we aim to be the former; a nice efficient side car to help you make and save money.**
+## You're building and growing your eCommerce business. There are so many challenges and even more opportunities. Sometimes software is a godsend and sometimes it's a royal pain!
 
-Start a discussion and we'll brainstorm together!
+### **What are your challenges and what opportunities do you want to grab!**
 
 <div class="row">
 <div class="span9 columns">

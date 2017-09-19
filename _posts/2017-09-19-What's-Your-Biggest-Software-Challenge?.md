@@ -6,8 +6,6 @@ Leave a comment and start a discussion and we'll brainstorm together!
 
 <div class="row">
 <div class="span9 columns">
-<h2>Comments</h2>
-<p>Feel free to comment below</p>
 <div id="disqus_thread"></div>
 <script type="text/javascript">
 var disqus_shortname = 'softserve'; // required: replace example with your forum shortname
